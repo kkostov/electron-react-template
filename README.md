@@ -17,7 +17,7 @@ Start for development:
 
 ## External Links ##
 
-(create-react-app)[https://github.com/facebookincubator/create-react-app]
+[create-react-app](https://github.com/facebookincubator/create-react-app)
 
 
 ## Solution structure ##
