@@ -2,6 +2,18 @@
 
 Seed project for starting electron apps using react.
 
+## Installation ##
+
+Install dependencies:
+
+
+`$ yarn`
+
+
+Start for development:
+
+
+`$ yarn dev`
 
 ## External Links ##
 
